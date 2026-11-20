@@ -2,9 +2,9 @@
 
 # Hi, I'm Abdur Rahman Eshan 👋
 
-**Software Developer**
+**Software Developer | Web & AI**
 
-I work on web development, bug fixing, UI design, and AI-powered solutions — including integrating AI models and building AI agents.
+I build web applications, solve technical problems, and develop AI-powered solutions through model integration, automation, and intelligent agents.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Md--Abdur--Rahman--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Abdur-Rahman-07)
 
