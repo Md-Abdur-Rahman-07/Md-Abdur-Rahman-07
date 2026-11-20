@@ -52,3 +52,6 @@ An AI-powered circuit analysis and verification project that interprets hand-dra
 
 **[Courier Management System](https://github.com/Md-Abdur-Rahman-07/courier)**  
 A PHP and MySQL-based courier management application developed for a Software Engineering Lab course.
+
+**[About Me](https://md-abdur-rahman-07.github.io/AboutMe/)**
+A premium, minimal portfolio landing page developed from a Figma design for a client, featuring responsive layouts and smooth GSAP animations.
