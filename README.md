@@ -2,9 +2,9 @@
 
 # Hi, I'm Abdur Rahman Eshan 👋
 
-**Software Developer | Web & AI**
+**Software Engineering | Web Development | LLM Integration | AI Agents**
 
-I build web applications, solve technical problems, and develop AI-powered solutions through model integration, automation, and intelligent agents.
+Building software systems, developing web applications, integrating LLMs, and engineering intelligent solutions.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Md--Abdur--Rahman--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Abdur-Rahman-07)
 
