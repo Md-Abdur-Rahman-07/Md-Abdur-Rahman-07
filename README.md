@@ -4,7 +4,7 @@
 
 **Software Engineering | Web Development | LLM Integration | AI Agents**
 
-Building software systems, developing web applications, integrating LLMs, and engineering intelligent solutions.
+Developing software applications, engineering scalable solutions, and building intelligent systems powered by AI.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Md--Abdur--Rahman--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-Abdur-Rahman-07)
 
